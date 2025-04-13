@@ -1,1 +1,1 @@
-test
+theme: jekyll-theme-dinky
