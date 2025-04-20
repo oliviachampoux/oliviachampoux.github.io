@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Olivia Champoux
 description: Portfolio cartographique
+
+navbar-links:
+  About Me: "aboutme"
