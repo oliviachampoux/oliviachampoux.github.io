@@ -1,3 +1,3 @@
 Under construction
 
-![](meteorite_landings)
+![](meteorite_landings.gif)
