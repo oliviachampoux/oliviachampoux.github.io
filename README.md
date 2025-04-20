@@ -5,5 +5,5 @@
 <img src="meteorite_landings.gif" >
 </p>
 
-<p align="center">Distance of the US counties to the nearest national park (source: National Park Service).
+<p align="center">Distance of the US counties to the nearest national park (source: National Park Service). Method: nearest neighbor analysis.
 </p>
