@@ -6,4 +6,5 @@
 </p>
 
 <p align="center">Distance of the US counties to the nearest national park (source: National Park Service). Method: nearest neighbor analysis.
+<img src="national_parks.png" >
 </p>
