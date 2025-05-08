@@ -9,6 +9,6 @@
 <img src="national_parks.png" >
 </p>
 
-<p align="center">Forests of the _Chaîne des Puys_, in the Massif Central of France. 3D map made with Blender.
+<p align="center">Forests of the Chaîne des Puys, in the Massif Central of France. 3D map made with Blender.
 <img src="ch_puys.png" >
 </p>
